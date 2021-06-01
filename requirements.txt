@@ -30,7 +30,7 @@ MarkupSafe==1.0
 pytz==2017.2
 requests==2.18.3
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 facebook-sdk==2.0.0
 terminaltables==3.1.0
 Scrapy==0.24.4
